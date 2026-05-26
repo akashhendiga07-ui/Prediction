@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Logistic Regression (Untuned),0.9489744872436218,0.8222222222222222,0.6788990825688074,0.7437185929648241
+Logistic Regression (Tuned),0.9489744872436218,0.8222222222222222,0.6788990825688074,0.7437185929648241
+Decision Tree (Untuned),1.0,1.0,1.0,1.0
+Decision Tree (Tuned),1.0,1.0,1.0,1.0
+Random Forest (Untuned),1.0,1.0,1.0,1.0
+Random Forest (Tuned),1.0,1.0,1.0,1.0
